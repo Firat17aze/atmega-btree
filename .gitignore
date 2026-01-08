@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.map
+*.lss
+
+# PlatformIO
+.pio/
+.vscode/
+
+# macOS
+.DS_Store
